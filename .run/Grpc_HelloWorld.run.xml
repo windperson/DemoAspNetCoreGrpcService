@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Grpc_HelloWorld" type="CompoundRunConfigurationType">
+    <toRun name="DemoAspNetCoreGrpcService" type="LaunchSettings" />
+    <toRun name="DemoGrpcClientConsoleApp" type="DotNetProject" />
+    <method v="2" />
+  </configuration>
+</component>
